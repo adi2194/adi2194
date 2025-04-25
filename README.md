@@ -9,11 +9,17 @@
 - 💬 Let’s chat about infrastructure, automation, or anything cloud!
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachannal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityachannal2194@gmail.com) 
+
+
+## 🌐 Connect with me:
+💬 Ask me about DevOps  
+📫 How to reach me: [adityachannal2194@gmail.com](mailto:adityachannal2194@gmail.com)  
+🔗 My LinkedIn: [adityachannal](https://www.linkedin.com/in/adityachannal/)
+ 
+
+
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
