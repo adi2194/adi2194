@@ -37,7 +37,8 @@
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-%23326CE5.svg?style=for-the-badge&logo=flux&logoColor=white)
-![DefectDojo](https://img.shields.io/badge/DefectDojo-DevSecOps-blue?style=for-the-badge)
+![DefectDojo](https://img.shields.io/badge/DefectDojo-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
+
 
 
 
